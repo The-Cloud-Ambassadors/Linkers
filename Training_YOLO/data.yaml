@@ -1,0 +1,17 @@
+# Paths are relative to the 'Label_with_images' directory
+# (or where this data.yaml file is located)
+train: ./train/images
+val: ./valid/images
+test: ./test/images  # Optional: if you have a test set and want to evaluate on it
+
+# Number of classes
+nc: 6
+
+# Class names - order MUST match the order in classes.txt AND the IDs in the .txt label files
+names:
+  0: child
+  1: employee
+  2: female
+  3: male
+  4: other
+  5: person

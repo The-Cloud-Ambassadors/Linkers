@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "child"
+    },
+    {
+      "id": 1,
+      "name": "employee"
+    },
+    {
+      "id": 2,
+      "name": "female"
+    },
+    {
+      "id": 3,
+      "name": "male"
+    },
+    {
+      "id": 4,
+      "name": "other"
+    },
+    {
+      "id": 5,
+      "name": "person"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

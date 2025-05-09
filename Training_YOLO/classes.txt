@@ -1,0 +1,6 @@
+child
+employee
+female
+male
+other
+person
